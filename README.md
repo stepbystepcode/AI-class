@@ -22,4 +22,4 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to the **CS50's Introduction to Artificial Intelligence with Python** course for providing inspiration for this project. I would like to acknowledge my teacher [Lin Li](https://cs.sxu.edu.cn/faculty/lecturer/4526/index.htm) and [Brian Yu](https://cs50.harvard.edu/ai/2024/), the instructor of the course, for his insightful teaching and guidance.·
+Special thanks to the [**CS50's Introduction to Artificial Intelligence with Python**](https://cs50.harvard.edu/ai/2024/) course for providing inspiration for this project. I would like to acknowledge my teacher [Lin Li](https://cs.sxu.edu.cn/faculty/lecturer/4526/index.htm) and [Brian Yu](https://brianyu.me/), the instructor of the course, for his insightful teaching and guidance.
