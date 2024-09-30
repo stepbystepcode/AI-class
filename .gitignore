@@ -1,0 +1,56 @@
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon\r
+
+# Thumbnails
+._*
+
+# macOS file attributes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Logs and debugging files
+*.log
+*.stackdump
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Xcode specific files (if using Xcode)
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Other IDE/editor related files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled source files
+*.o
+*.out
+*.class
+
+# Other
+coverage/
+.env
