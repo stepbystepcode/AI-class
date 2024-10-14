@@ -1,0 +1,2 @@
+P(x, f(y)) ∨ Q(x) ∨ R(f(a), y)
+¬P(f(f(a)), z) ∨ R(z, w)
