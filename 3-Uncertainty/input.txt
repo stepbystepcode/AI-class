@@ -1,0 +1,22 @@
+5
+Burglar Earthquake Alarm John Mary
+0 0 1 0 0
+0 0 1 0 0
+0 0 0 1 1
+0 0 0 0 0
+0 0 0 0 0
+0.001 0.999
+0.002 0.998
+0.95 0.05
+0.94 0.06
+0.29 0.71
+0.001 0.999
+0.05 0.95
+0.9 0.1
+0.01 0.99
+0.7 0.3
+P(Burglar | Alarm=true)
+P(Alarm | Earthquake=true, Burglar=true)
+P(Burglar | John=true, Mary=false)
+P(Burglar | John=true, Mary=false)
+P(Burglar | Alarm=true, Earthquake=true)
