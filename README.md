@@ -12,6 +12,7 @@ The project is organized into folders, each containing the following:
 **Environment**
 
 * Development Platform: MacBook Air M3
+* Training Platform: Inspur NF5280 M5 + NVIDIA Tesla V100 32GB*2
 * Integrated Development Environment: VS Code with vim
 * Package Manager: Mamba 1.5.9, Anaconda 24.7.1
 * Python Version: 3.12.6
