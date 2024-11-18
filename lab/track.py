@@ -11,7 +11,7 @@ model = YOLO(model_path)
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 model.to(device)
 # https://www.youtube.com/watch?v=oWMXQkGOzho
-cap = cv2.VideoCapture(os.path.join(current_dir, "test.mp4"))
+cap = cv2.VideoCapture(os.path.join(current_dir, 'test', "test.mp4"))
 # cap = cv2.VideoCapture(0)
 lower_red = np.array([0, 100, 100])
 upper_red = np.array([10, 255, 255])
